@@ -1,0 +1,422 @@
+
+Archer
+scenario0.0
+---------------------------------------------------------------------------------------------
+Prologue:
+In a world of knights and castles..Peasants toil, nobles rule with iron fist..
+
+Magic defies explanation..Its true nature remains ambiguous..
+
+Few can harness it, one must hone their abilities to wield it skillfully..
+
+You either live or die, no law can withhold true evil..
+
+Will you be that hero to stand against evil?..
+
+Mysterious powers and uncertain consequences...Is what you were thinking..
+
+Until you snapped back unto reality and remembered what you came to the forest for..
+
+You were hunting for your next meal as you hear a sudden russle near you from the bushes..
+
+                           "your next meal!" - you say to yourself
+
+(enter 5 to continue or 0 to exit)
+
+scenario0.5
+---------------------------------------------------------------------------------------------
+As you were setting up camp you opened your journal and check the list of beasts that...
+
+You may have to fight your way to the fabled treasure!...
+
+You remember that on a mountain nearby there is a one of a kind Beast that is sought after..
+
+You set your eye to get it after you finish your meal..
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.0
+---------------------------------------------------------------------------------------------
+The Point Of No Return:
+You are climbing up the mountain that the locals told you where the beast laid its nest...
+
+"Fenrir!" is what they called it, should it prove to be as dangerous as they said..
+
+Your life may end on the journey but you are in dire need of money to support your future..
+
+You say to yourself "Its better to try than nothin", nothing worked for you so far but..
+
+Hunting for bounties seemed to be your forte "this wont be your last rodeo", you hope..
+
+It appears your walk have been interrupted, *You prepare for combat*
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.5
+---------------------------------------------------------------------------------------------
+You have slayed the famished wolf and set up camp for the day, you opened your backpack..
+
+And reached for the jerky you prepared off of prey you prepared before climbing the mountain..
+
+*You start munching on the jerky while staring at the starry night*
+
+You think in a daze "Will I be able to slay the beast?", and then you call it night..
+
+*You woke up to a blizzard and started packing your stuff*
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.0
+---------------------------------------------------------------------------------------------
+The Encounter:
+You have reached what appears to be the den of the beast *You sneakly enter the den*
+
+After a short walk you find the beast sleeping..
+
+*You notice some -what appears to be bones- fragments scattered around the ground*
+
+You hold your breath and take an ambushing position and take a spot..
+
+You shoot an arrow and it goes *thump* hitting the ground missing the target..
+
+The beast awakens from its slumber annoyed..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.5
+---------------------------------------------------------------------------------------------
+You have slayed the beast! barely alive too, you rest for a while and start going back down..
+
+(enter 5 to continue or 0 to exit)
+
+scenario3.0
+---------------------------------------------------------------------------------------------
+You have reached the village and tell it's local that the beast is dead and leave for the city.
+
+Entering the city you are surprised by how relieved you feel that you came back in one piece..
+
+As you enter the Hunter's guild and reach for the reception, you show the rare parts of Fenrir.
+
+The clerk is in awe and asks you "Where did you find this from?" as you are about to say..
+
+The clerk takes back their word and say "It's fine, Its of high quality so it wont matter"
+
+You are given 1 platinum pieces which is worth alot, enough to buy 3 houses..
+
+You are over joyed with excitement! and you think to yourself how you should use it..
+
+But thats for the Hunter to decide...
+
+THE END
+
+(enter 5 to continue)
+scenario
+////////////////////
+
+Royal
+scenario0.0
+---------------------------------------------------------------------------------------------
+Prologue:
+In a world of knights and castles..Peasants toil, nobles rule with iron fist..
+
+Magic defies explanation..Its true nature remains ambiguous..
+
+Few can harness it, one must hone their abilities to wield it skillfully..
+
+You either live or die, no law can withhold true evil..
+
+Will you be that hero to stand against evil?..
+
+Mysterious powers and uncertain consequences...Is what you were thinking..
+
+You are standing near the grand Marshall in the war tent..
+
+He orders you "Go to the frontlines and clear a path and push the line for the alliance!"..
+
+You heed his words and start to make your way over there as you pass by your allied lines..
+
+You have reached the skirmish and partake in it.. 
+
+(enter 5 to continue or 0 to exit)
+
+scenario0.5
+---------------------------------------------------------------------------------------------
+After ending the duel a path opens for you so make haste through their lines!..
+
+You think *This way probably leads to their general* as you carve through enemy soliders..
+
+You remember all your comrades you lost to this forsaken war...
+
+You have finished your objective and the clashing stops for this day, resulting in a push..
+
+Returning back to the base camp the marshall applaud your efforts and lets your rest..
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.0
+---------------------------------------------------------------------------------------------
+The Duel:
+Your marshall gave you another task locate their high ranking knights and deal with them..
+
+You once more rode on your trusted steed and reach the outskirts of the skirmish..
+
+and let your horse back, you see a ferocious looking knight like you, you stop..
+
+shoutingly you say *FOR WHOM DO YOU FIGHT AND WHY OF PRIDE KNIGHT*, but no reply..
+
+It appears words are but white noise compared to crossing swords...You sigh as you wish..
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.5
+---------------------------------------------------------------------------------------------
+You have defeated the knight, you ask once more with a question.
+
+"Why did your kingdom betray the alliance?"The knight replies "I dont want to hear that from you"
+
+You are dumbfounded.."How so?", you ask and then say "we have done none to you and yours"..
+
+In an instant the knight seem to have passed on, you searched his body for a map or the sorts..
+
+You strap what you found to your armor and make your way back..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.0
+---------------------------------------------------------------------------------------------
+The Dawn:
+You have recieved the order to enter the tent, the marshall thanks you for the findings..
+
+It appears the knight whom you slayed had a note for the way to the camp..
+
+You have finally recieved the order to storm their encampment with a squd..
+
+The squad appears to hold the stongest knights in the alliance and make your way to the camp..
+
+You find yourself at the enemies doorstep, greeted by a knight clad in black..
+
+"I see you are the valiant knight?, expected as much" he says leaving you no room to reply..
+
+*insert sword unsheating fx*, it appears there is no room for talk..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.5
+---------------------------------------------------------------------------------------------
+You have decapitated the Knight who appeared to be the enemy general..
+
+You topple the enemy kingdom's flag and gather whoever is left of the squad..
+
+You return back in haste to the tidings..
+
+(enter 5 to continue or 0 to exit)
+
+scenario3.0
+---------------------------------------------------------------------------------------------
+You see the marshall looking at the battlefiled, you make your way to him..
+
+"Is it finally over?" he says, you nod presenting the enemies flag..
+
+He looks at you and your squad saying "You have done well this day and the war is finally over"
+
+After that you can see the enemy armies withdraw back their forces announcing their defeat..
+
+Its finally time to return home and go back to how it used to be before the war..
+
+THE END
+
+(enter 5 to continue)
+scenario
+////////////
+Rogue
+scenario0.0
+---------------------------------------------------------------------------------------------
+Prologue:
+In a world of knights and castles..Peasants toil, nobles rule with iron fist..
+
+Magic defies explanation..Its true nature remains ambiguous..
+
+Few can harness it, one must hone their abilities to wield it skillfully..
+
+You either live or die, no law can withhold true evil..
+
+Will you be that hero to stand against evil?..
+
+Mysterious powers and uncertain consequences...Is what you were thinking..
+
+You woke up in a haze, and suddenly remember a certain memory..
+
+A memory of awakening your powers with your family forsakening you..
+
+"What a terrible memory" you think to yourself, you get up and make your way through a shortcut..
+
+To a "friend" of yours, it appears there is a thief demanding to hand over the goods he says..
+
+You know he is no match for you, so you prepare for a fight..
+
+(enter 5 to continue or 0 to exit)
+
+scenario0.5
+---------------------------------------------------------------------------------------------
+As you thought he was no match and continue on your way to your "friend"..
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.0
+---------------------------------------------------------------------------------------------
+The Underground Tavern:
+You have arrived at a door and knock twice *thud thud*, the door opens letting you in..
+
+The waiters usher you in and seats you near your "friend" and asks whom you are searching for..
+
+"you utter the words The Red Eye", the broker jolts he asks "do you have the strength to fight him?"
+
+you answer "yes" with a response of hostility, "Then prove it" - The broker.
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.5
+---------------------------------------------------------------------------------------------
+The broker admits defeat and tells you where to go...
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.0
+---------------------------------------------------------------------------------------------
+You arrived at the appointed place, "Doesn't seem to be much" you say..
+
+You started to sneak around to see if you can find a key to the inside of the building
+
+You searched every nook and crany but found nothing until...
+
+You checked at the top of the barrel beside the door, you are amused by the little hassle..
+
+But you use the key to Enter.. He greats you "Welcome intruder to MY domain" with a smirk on..
+
+You dont negotiate with him for you are here for his head..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.5
+---------------------------------------------------------------------------------------------
+You have finally put a nail in the coffin with the defeat of him..
+
+And with that you return to where you came from content, you have avenged several villages..
+
+He used to be a menace to the area you lived in..
+
+(enter 5 to continue or 0 to exit)
+
+scenario3.0
+---------------------------------------------------------------------------------------------
+You have arrived at what you remember and call your hometown ravaged and destroyed..
+
+You plan to rebuild the village and search for nearby wanderers and asks them to settle in it..
+
+The wanderers started to call you "The Green touched" as you seem to have a nack with plants..
+
+You decided to become a herbalist and become the town's doctor...
+
+THE END
+(enter 5 to continue)
+scenario
+////////////////
+Mage
+scenario0.0
+---------------------------------------------------------------------------------------------
+Prologue:
+In a world of knights and castles..Peasants toil, nobles rule with iron fist..
+
+Magic defies explanation..Its true nature remains ambiguous..
+
+Few can harness it, one must hone their abilities to wield it skillfully..
+
+You either live or die, no law can withhold true evil..
+
+Will you be that hero to stand against evil?..
+
+Mysterious powers and uncertain consequences...Is what you were thinking..
+
+You woke up in a haze, and suddenly remember a certain memory..
+
+A memory of awakening your powers with your family forsakening you..
+
+"What a terrible memory" you think to yourself, you start wandering around the forest..
+
+Looking for a specific mushroom growing around this time of the year..
+
+You appear to have encountered a forest witch that doesn't seem to be friendly..
+
+You notice the mushroom in her hand and prepare for combat..
+
+(enter 5 to continue or 0 to exit)
+
+scenario0.5
+---------------------------------------------------------------------------------------------
+You have defeated the witch and took the mushroom to make a tincture..
+
+A tincture only you know how to make, It's used to suppress your raging power inside of you..
+
+The mage reminiscence of how to fully control it but he needs to ask an arch magus..
+
+One of the highest ranking sorcerers out there for help.. 
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.0
+---------------------------------------------------------------------------------------------
+The Pursuit:
+As you walk out of the mysteries of the forest you are greeted by a person..
+
+A mageseeker to your disamay he asks "You don't look like a forest witch"...
+
+"But I apologize for I have to capture you, higher ups orders", you twitch nerviously..
+
+The seeker prepares for combat and so are you..
+
+(enter 5 to continue or 0 to exit)
+
+scenario1.5
+---------------------------------------------------------------------------------------------
+You have defeated the seeker and ask him "who is this higher up you are taking orders from?"
+
+To which he answers "The arch magus, I wont hide whom I work for but I wish to be spared"..
+
+You nod and leave..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.0
+---------------------------------------------------------------------------------------------
+Solitude:
+You arrive at the designated place the seeker told you about, It appears to be a mansion..
+
+You knock on the door and is greeted by a butler who guides you to his master..
+
+You are bein sat down at a chair infront of a mirror, an illusion is being shown to you..
+
+"The Arch Magus", the butler says then you lay the case to the magus and says..
+
+"You must first prove thy self before me for I to teach thee", he casts a mirage..
+
+"Defeat my clone and you will become my desciple", you prepare for combat..
+
+(enter 5 to continue or 0 to exit)
+
+scenario2.5
+---------------------------------------------------------------------------------------------
+You have defeated the clone and the butler congratulate you "you have done marvelously"..
+
+The butler then reveals to be The Arch Magus himself and was only testing your personality..
+
+(enter 5 to continue or 0 to exit)
+
+scenario3.0
+---------------------------------------------------------------------------------------------
+"As I promised thee thou shall become mine desicple", "thou of pure heart and valor"
+
+You are taken under his wings and start to train underhim to become the heir of his seat..
+
+THE END
+
+(enter 5 to continue )
